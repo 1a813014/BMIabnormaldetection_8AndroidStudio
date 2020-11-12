@@ -1,0 +1,3 @@
+# BMIabnormaldetection_8AndroidStudio
+BMI異常計算示範
+BMI異常な計算デモ
